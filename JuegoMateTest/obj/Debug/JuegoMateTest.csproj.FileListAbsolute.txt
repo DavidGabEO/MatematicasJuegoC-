@@ -1,0 +1,10 @@
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\bin\Debug\JuegoMateTest.exe.config
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\bin\Debug\JuegoMateTest.exe
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\bin\Debug\JuegoMateTest.pdb
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.csprojAssemblyReference.cache
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.frmMate.resources
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.Properties.Resources.resources
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.csproj.GenerateResource.cache
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.csproj.CoreCompileInputs.cache
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.exe
+C:\Users\galde\OneDrive\Escritorio\Proyectos de programación\JuegoMateTest\obj\Debug\JuegoMateTest.pdb
